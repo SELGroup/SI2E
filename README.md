@@ -1,6 +1,6 @@
-# Effective Exploration Based on Structural Information Principles (SI2E)
+# Effective Exploration Based on Structural Information Principles
 
-This repository is dedicated to the implementations associated with our work on effective exploration using structural information principles.
+This repository is dedicated to the implementations associated with our work on effective exploration using structural information principles in NeurIPS 2024.
 
 ## Algorithm Implementations
 
